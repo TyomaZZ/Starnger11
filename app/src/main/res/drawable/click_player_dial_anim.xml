@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/pc1" android:duration="150"/>
+    <item android:drawable="@drawable/pc2" android:duration="150"/>
+    <item android:drawable="@drawable/pc3" android:duration="150"/>
+    <item android:drawable="@drawable/pc4" android:duration="150"/>
+    <item android:drawable="@drawable/pc5" android:duration="150"/>
+    <item android:drawable="@drawable/pc6" android:duration="150"/>
+    <item android:drawable="@drawable/pc7" android:duration="150"/>
+    <item android:drawable="@drawable/pc8" android:duration="150"/>
+    <item android:drawable="@drawable/pc9" android:duration="150"/>
+    <item android:drawable="@drawable/pc10" android:duration="150"/>
+    <item android:drawable="@drawable/pc11" android:duration="150"/>
+    <item android:drawable="@drawable/pc12" android:duration="150"/>
+    <item android:drawable="@drawable/pc13" android:duration="150"/>
+    <item android:drawable="@drawable/pc14" android:duration="150"/>
+    <item android:drawable="@drawable/pc15" android:duration="150"/>
+    <item android:drawable="@drawable/pc16" android:duration="150"/>
+    <item android:drawable="@drawable/pc17" android:duration="150"/>
+    <item android:drawable="@drawable/pc18" android:duration="150"/>
+    <item android:drawable="@drawable/pc19" android:duration="150"/>
+    <item android:drawable="@drawable/pc20" android:duration="150"/>
+    <item android:drawable="@drawable/pc21" android:duration="150"/>
+    <item android:drawable="@drawable/pc22" android:duration="150"/>
+    <item android:drawable="@drawable/pc23" android:duration="150"/>
+    <item android:drawable="@drawable/pc24" android:duration="150"/>
+    <item android:drawable="@drawable/pc25" android:duration="150"/>
+    <item android:drawable="@drawable/pc26" android:duration="150"/>
+    <item android:drawable="@drawable/pc27" android:duration="150"/>
+    <item android:drawable="@drawable/pc28" android:duration="150"/>
+    <item android:drawable="@drawable/pc29" android:duration="150"/>
+    <item android:drawable="@drawable/pc30" android:duration="150"/>
+    <item android:drawable="@drawable/pc31" android:duration="150"/>
+</animation-list>

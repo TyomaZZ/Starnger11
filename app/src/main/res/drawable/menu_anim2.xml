@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/level0_0" android:duration="100"/>
+    <item android:drawable="@drawable/level0_1" android:duration="100"/>
+    <item android:drawable="@drawable/level0_2" android:duration="100"/>
+    <item android:drawable="@drawable/level0_3" android:duration="100"/>
+    <item android:drawable="@drawable/level0_4" android:duration="100"/>
+    <item android:drawable="@drawable/level0_5" android:duration="100"/>
+    <item android:drawable="@drawable/level0_6" android:duration="100"/>
+    <item android:drawable="@drawable/level0_7" android:duration="100"/>
+    <item android:drawable="@drawable/level0_8" android:duration="100"/>
+    <item android:drawable="@drawable/level0_9" android:duration="100"/>
+    <item android:drawable="@drawable/level0_10" android:duration="100"/>
+    <item android:drawable="@drawable/level0_11" android:duration="100"/>
+    <item android:drawable="@drawable/level0_12" android:duration="100"/>
+    <item android:drawable="@drawable/level0_13" android:duration="100"/>
+    <item android:drawable="@drawable/level0_14" android:duration="100"/>
+    <item android:drawable="@drawable/level0_15" android:duration="100"/>
+    <item android:drawable="@drawable/level0_16" android:duration="100"/>
+    <item android:drawable="@drawable/level0_17" android:duration="100"/>
+</animation-list>
